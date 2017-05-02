@@ -1,7 +1,7 @@
 package paket_713_ArtikelMitRelDB2;
 public class Artikel
 {
-    private String artikelnr;
+    private Stringss artikelnr;
     private String bezeichnung;
     private double preis;
     private int bestand;
